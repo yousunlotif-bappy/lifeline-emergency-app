@@ -7,6 +7,8 @@ I created this project not just to practice development, but to build something 
 Even though it's a demo, it represents a bigger vision:
 making safety, accessibility, and fast response more reliable through simple digital solutions.
 
+https://lifeline-emergency-app.vercel.app/
+
 Why I Made This App
 
 I built this app to:
